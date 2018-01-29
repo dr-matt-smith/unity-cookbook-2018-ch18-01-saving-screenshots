@@ -138,7 +138,7 @@ public class CaptureScreenshot : MonoBehaviour
         Destroy (texture);
 
         // in form:
-        // 
+        // Screenshot_29-Jan-2018-07-33-26-6.png
         string filename = prefix + date + fileExtension;
 
         // Write bytes as file named after 'prefix", 'date' and 'format' strings
