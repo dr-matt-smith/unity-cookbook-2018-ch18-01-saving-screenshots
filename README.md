@@ -1,2 +1,2 @@
-# unity-cookbook-2018-ch11-06-saving-screenshots
-Chapter 11 - Recipe 6 - Saving Screenshots
+# unity-cookbook-2018-ch11-08-saving-screenshots
+Chapter 11 - Recipe 8 - Saving Screenshots
